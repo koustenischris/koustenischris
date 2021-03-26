@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koustenischris
-- 👀 I’m interested in software and hardware engineering 
+- 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning C++
 <!---
 koustenischris/koustenischris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
